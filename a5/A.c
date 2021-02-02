@@ -2,8 +2,8 @@
 
 int combi(int, int);
 
-int a[20],n;
 
+int a[20],n;
 int main(){
     int i,m,b[200];
     
